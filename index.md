@@ -1,7 +1,3 @@
----
-layout: default
-title: "IS445 HW5 – Two Altair/Vega-Lite Visualizations"
----
 
 # IS445 Homework 5  
 ### Pranav Charakondala – Data Visualizations Using Altair & Vega-Lite  
